@@ -1,0 +1,1 @@
+import{e as a,h as n,n as l,q as e,t as s}from"./index.a19c4582.js";const t={name:"Callback",setup(l,e){const s=n();return a((async()=>{console.log("Callback mounted!",s.hash,s)})),{}}},o=s("h1",null,"Callback",-1),c=s("p",null,"SAML",-1);t.render=function(a,n,s,t,r,u){return l(),e("div",null,[o,c])};export default t;
